@@ -1,0 +1,16 @@
+    # Script to manipulate string values and
+
+   # Dictionary are kind of hash table as key and value pairs
+dataMapDictionary= {}
+dataMapDictionary['key1']= 'Value1'
+dataMapDictionary[2]='value2'
+
+#printint entire dictionay 
+
+print ("entiredictonary content",dataMapDictionary)
+#print (dataMapDictionary.get[1])
+
+print ('All keys in data dictonary')
+print (dataMapDictionary.keys())
+print ('get key content values \t ', dataMapDictionary.get(2))
+
